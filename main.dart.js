@@ -62030,7 +62030,7 @@ if(c===$){c=i.r=$.aeD()[i.a.c-1]
 p=c}else p=c
 if(!(q<c.length))break
 o=$.as7[q]
-o=A.dQ(h,new A.my(new A.pE(B.d.T(o+"\\(\\quad\\)",(p===$?i.r=$.aeD()[i.a.c-1]:p)[q]),h),h),B.o,h,h,h,h,44,h,B.di,h,h,96)
+o=A.dQ(h,new A.my(new A.pE(B.d.T(o+"\\(\\quad\\)",(p===$?i.r=$.aeD()[i.a.c-1]:p)[q]),h),h),B.o,h,h,h,h,44,h,B.di,h,h,144)
 n=new A.bk(20,20)
 m=q+1
 l=new A.cC(m===i.as?B.k:B.M,1,B.am,-1)
@@ -62051,24 +62051,24 @@ if(c===$)c=i.x=$.akJ()[i.a.c-1];++q
 j=c.i(0,q)
 if(j==null)j=B.k6
 b.push(new A.pu(B.aM,B.aK,A.a([new A.np(A.he(A.a([n,B.cZ,new A.dG(h,150,new A.my(new A.H0(k),h),h),j,B.v1],g),B.a4,B.ay,B.ae),o,B.aa,B.bc,h,h),new A.iS(0,0,0,0,h,h,A.acW(A.dQ(h,h,B.o,B.M,h,h,h,h,h,h,h,h,h)),h)],g),h))}d=A.dQ(h,A.dQ(h,new A.cZ(B.zy,A.he(b,B.a4,B.ay,B.ae),h),B.o,B.M,h,h,h,h,h,h,h,h,d.a.a),B.o,B.M,h,h,h,h,h,h,h,h,h)
-b=i.ay
-s=!b
-b=b?B.zb:B.H0
-o=s?B.zH:B.zG
-o=A.oQ(h,A.he(A.a([A.Vw(h,o,h,i.gVl(),h),B.Lw],g),B.a4,B.ay,B.ae),h,h,h,12,12,h)
-n=i.at
-k=n&&!i.ax?1:0
-j=B.c.bi(127.5)
-k=A.oQ(h,A.af7(A.afU(B.A0,A.aL(j,244,67,54),80),B.dh,k),h,h,12,h,12,h)
-n=n&&i.ax?1:0
-e=A.a_K(!0,A.ahj(A.ku(B.aM,A.a([d,new A.fx(s,h,b,h),o,k,A.oQ(h,A.af7(A.afU(B.zZ,A.aL(j,76,175,80),80),B.dh,n),h,h,12,h,12,h)],g),B.aK),e),!0)
-n=A.a([],g)
-if(i.a.c>1)n.push(A.ea(h,B.EZ,B.L,!1,h,h,h,h,h,h,h,h,h,h,h,i.gVd(),h,h,h,h,h,h))
-n.push(B.v0)
-n.push(A.pF(""+i.a.c+" / "+i.gDQ(),h,h,h))
-n.push(B.v0)
-if(i.a.c<i.gDQ())n.push(A.ea(h,B.EY,B.L,!1,h,h,h,h,h,h,h,h,h,h,h,i.gVb(),h,h,h,h,h,h))
-return new A.x3(A.a_M(f,e,new A.rg(new A.DD(A.ku(B.aM,A.a([A.he(A.a([A.a_k(n,B.a4,B.rj,B.ae)],g),B.a4,B.ri,B.ae),A.a_k(A.a([A.he(A.a([A.ea(h,B.zU,B.L,!1,h,h,h,h,h,h,h,h,h,h,h,i.gV4(),h,h,h,h,h,h),B.k6,B.zT],g),B.a4,B.ay,B.fQ)],g),B.a4,B.ri,B.ae)],g),B.aK),h),B.zw,h)),new A.a83(i),h)}}
+b=i.at
+s=b&&!i.ax?1:0
+o=B.c.bi(127.5)
+s=A.oQ(h,A.af7(A.afU(B.A0,A.aL(o,244,67,54),80),B.dh,s),h,h,12,h,12,h)
+b=b&&i.ax?1:0
+b=A.oQ(h,A.af7(A.afU(B.zZ,A.aL(o,76,175,80),80),B.dh,b),h,h,12,h,12,h)
+o=i.ay
+n=!o
+o=o?B.zb:B.H0
+k=n?B.zH:B.zG
+e=A.a_K(!0,A.ahj(A.ku(B.aM,A.a([d,s,b,new A.fx(n,h,o,h),A.oQ(h,A.he(A.a([A.Vw(h,k,h,i.gVl(),h),B.Lw],g),B.a4,B.ay,B.ae),h,h,h,12,12,h)],g),B.aK),e),!0)
+k=A.a([],g)
+if(i.a.c>1)k.push(A.ea(h,B.EZ,B.L,!1,h,h,h,h,h,h,h,h,h,h,h,i.gVd(),h,h,h,h,h,h))
+k.push(B.v0)
+k.push(A.pF(""+i.a.c+" / "+i.gDQ(),h,h,h))
+k.push(B.v0)
+if(i.a.c<i.gDQ())k.push(A.ea(h,B.EY,B.L,!1,h,h,h,h,h,h,h,h,h,h,h,i.gVb(),h,h,h,h,h,h))
+return new A.x3(A.a_M(f,e,new A.rg(new A.DD(A.ku(B.aM,A.a([A.he(A.a([A.a_k(k,B.a4,B.rj,B.ae)],g),B.a4,B.ri,B.ae),A.a_k(A.a([A.he(A.a([A.ea(h,B.zT,B.L,!1,h,h,h,h,h,h,h,h,h,h,h,i.gV4(),h,h,h,h,h,h),B.k6,B.zU],g),B.a4,B.ay,B.fQ)],g),B.a4,B.ri,B.ae)],g),B.aK),h),B.zw,h)),new A.a83(i),h)}}
 A.a84.prototype={
 $0(){},
 $S:0}
@@ -65212,8 +65212,8 @@ B.bG=new A.jO(1,"browserGestures")
 B.b1=new A.o5(0,"ready")
 B.dl=new A.o5(1,"possible")
 B.zS=new A.o5(2,"defunct")
-B.zT=new A.tA("\uc804\uccb4 \ucc44\uc810",null)
-B.zU=new A.tA("\ucc44\uc810 \ud558\uae30",null)
+B.zT=new A.tA("\ucc44\uc810\n\ud558\uae30",null)
+B.zU=new A.tA("\uc804\uccb4\n\ucc44\uc810",null)
 B.m4=new A.tB(0,"forward")
 B.m5=new A.tB(1,"reverse")
 B.be=new A.lC(0,"push")
